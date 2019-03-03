@@ -15,8 +15,12 @@ void printSectionHeader(string which_section) {
 }
 
 void printSectionFooter(int num_items) {
+   string iar = '';
+   if (num_items == 37) {
+      iar = " in a row?!?";
+   }
    if (num_items > 0) {
-      print(num_items + " Items Found", "green");
+      print(num_items + " Items Found"+iar, "green");
    } else {
       print("No tradeable IotM's Found", "red");
    }
