@@ -1,3 +1,5 @@
+A simple script that will check your various inventory locations for IOTM's because they tend to get lost sometimes.
+
 Guide
 =====
 
