@@ -97,7 +97,7 @@ int search_display(item[int] iotms) {
 item workshed_item() {
    string workshed_page = visit_url("campground.php?action=workshed");
    matcher match_dna = create_matcher("Little Geneticist DNA-Splicing Lab", workshed_page);
-   matcher match_mayo = create_matcher("portable Mayo Clinic", workshed_page);
+   matcher match_mayo = create_matcher("Mayo Clinic", workshed_page);
 
    #These are the only two non-BOE workshed IOTM's
    if (match_dna.find()) {
