@@ -73,7 +73,7 @@
 7300	fairy-worn boots
 7400	FantasyRealm membership packet
 7500	fist turkey outline
-7600	flaming familiar doppelgänger
+7600	flaming familiar doppelg&auml;nger
 7700	flaming juggler's balls
 7800	flaming pink shirt
 7900	floaty stone sphere
