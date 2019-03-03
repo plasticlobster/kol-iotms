@@ -205,7 +205,7 @@
 20300	Sneaky Pete's leather jacket
 20400	Sneaky Pete's leather jacket (Collar popped)
 20500	Snow Suit
-20600	SongBoom™ BoomBox Box
+20600	SongBoom&trade; BoomBox Box
 20700	Sorcerers of the Shore Grimoire
 20800	Source terminal
 20900	Sp'n-Zor's Grimoire of &quot;Tasteful&quot; Gifts
