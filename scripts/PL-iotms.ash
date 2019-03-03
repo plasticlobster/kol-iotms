@@ -1,6 +1,28 @@
 notify plasticlobster;
 since r10000;
 
+string nwc(int num) {
+   float fnum = to_float(num);
+   if (num > 1000) {
+      int nextnum = truncate(fnum / 1000.0);
+      int without_dec = nextnum * 1000;
+      int dec_part = (num - without_dec);
+      string addl = '';
+      if (dec_part < 100) {
+         addl = '0';
+      }
+      if (dec_part < 10) {
+         addl = '0';
+      }
+      if (dec_part == 0) {
+         addl = '00';
+      }
+      return nwc(nextnum)+","+addl+to_string(dec_part);
+   } else {
+      return to_string(num);
+   }
+}
+
 void printSectionHeader(string which_section) {
    print("Items Currently in "+which_section+": ", "blue");
 }
@@ -24,7 +46,7 @@ void printItemCount(item it, int num_items) {
          plural = false;
          print("- ("+num_items+") "+it+" ("+to_string(historical_price(it))+" Meat)");
       } else {
-         print("- ("+num_items+") "+to_plural(it)+" ("+to_string(historical_price(it))+" Meat)");
+         print("- ("+num_items+") "+to_plural(it)+" ("+nwc(historical_price(it))+" Meat)");
       }
    }
 }
