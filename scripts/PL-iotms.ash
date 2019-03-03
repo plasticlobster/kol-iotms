@@ -140,7 +140,7 @@ void printTotal(int num_items) {
 
 void main(boolean skip_workshed) {
    item[int] iotms;
-   file_to_map('PL-iotms.txt', iotms);
+   file_to_map('https://raw.githubusercontent.com/plasticlobster/kol-iotms/master/data/PL-iotms.txt', iotms);
 
    foreach a in iotms {
       if (iotms[a] == $item[none]) abort("Error: Invalid Item Found in Data File. KMail PlasticLobster to fix.");
