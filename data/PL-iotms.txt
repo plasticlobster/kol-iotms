@@ -1,3 +1,26 @@
+196	"gentlemen's" magazine
+178	evil flaming eyeball pendant
+179	liar's pants
+180	flaming juggler's balls
+181	flaming pink shirt
+182	flaming familiar doppelgänger
+183	ice pick
+184	ice skates
+185	ice sickle
+186	ice baby
+187	stinky cheese sword
+188	stinky cheese diaper
+189	stinky cheese wheel
+190	stinky cheese eye
+191	Staff of Queso Escusado
+192	naughty paper shuriken
+193	origami pasties
+194	origami riding crop
+195	naughty fortune teller
+177	Spooky Putty snake
+176	Spooky Putty sheet
+175	Spooky Putty mitre
+174	Spooky Putty ball
 173	January's Garbage Tote (unopened)
 172	Clan Carnival Game
 171	Pokéfam Guide to Capturing All of Them
