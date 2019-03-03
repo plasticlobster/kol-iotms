@@ -6,7 +6,7 @@ Guide
 To install, type:
 ----------------------
 <pre>
-svn checkout https://github.com/plasticlobster/kol-iotms/branches/master
+svn checkout https://github.com/plasticlobster/kol-iotms/branches/Release
 </pre>
 
 in your KoLMafia CLI
@@ -15,7 +15,7 @@ in your KoLMafia CLI
 To update, type:
 ----------------------
 <pre>
-svn update plasticlobster-kol-iotms-branches-master
+svn update plasticlobster-kol-iotms-branches-Release
 svn sync
 </pre>
 svn sync is necessary because sometimes KoLMafia doesn't move updates to the scripts folder.
@@ -23,5 +23,5 @@ svn sync is necessary because sometimes KoLMafia doesn't move updates to the scr
 To remove:
 ----------------------
 <pre>
-svn delete plasticlobster-kol-iotms-branches-master
+svn delete plasticlobster-kol-iotms-branches-Release
 </pre>
