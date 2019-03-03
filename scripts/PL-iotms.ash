@@ -22,7 +22,7 @@ void printSectionFooter(int num_items) {
    if (num_items > 0) {
       print(num_items + " Items Found"+iar, "green");
    } else {
-      print("No tradeable IotM's Found", "red");
+      print("No tradeable Mr. Store/Ultra Rares Found", "red");
    }
 }
 
