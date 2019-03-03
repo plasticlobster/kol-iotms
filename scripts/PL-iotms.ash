@@ -22,9 +22,9 @@ void printItemCount(item it, int num_items) {
       boolean plural = true;
       if (num_items == 1) {
          plural = false;
-         print("- ("+num_items+") "+it+" ("+historical_price(it)+" Meat)");
+         print("- ("+num_items+") "+it+" ("+to_string(historical_price(it))+" Meat)");
       } else {
-         print("- ("+num_items+") "+to_plural(it)+" ("+historical_price(it)+" Meat)");
+         print("- ("+num_items+") "+to_plural(it)+" ("+to_string(historical_price(it))+" Meat)");
       }
    }
 }
