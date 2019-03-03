@@ -22,7 +22,7 @@ void printSectionFooter(int num_items) {
    if (num_items > 0) {
       print(num_items + " Items Found"+iar, "green");
    } else {
-      print("No tradeable Mr. Store/Ultra Rare Items Found", "red");
+      print("No tradable Mr. Store/Ultra Rare Items Found", "red");
    }
 }
 
@@ -147,7 +147,7 @@ void main(boolean skip_workshed) {
    }
    int total = 0;
    print("-----------------------------------------");
-   print("This script will search your inventory, closet, Hagnk's, workshed, and display case for tradeable Mr. Store");
+   print("This script will search your inventory, closet, Hagnk's, workshed, and display case for tradable Mr. Store");
    print("Items as well as Ultra Rares");
    print("Because nobody likes losing their valuable stuff.");
    print("-----------------------------------------");
