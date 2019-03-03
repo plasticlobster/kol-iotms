@@ -121,6 +121,7 @@
 12100	KoLHS Pep Squad Box
 12200	Latte lovers club card
 12300	Lazenby's Life Lesson
+12301	left bear arm
 12400	LI-11 Motor Pool voucher
 12500	li'l orphan tot
 12600	liar's pants
@@ -191,6 +192,7 @@
 19100	pygmy bugbear shaman
 19200	rehearsing dramatic hedgehog
 19300	repaid diaper
+19301	right bear arm
 19400	Sane hatrack
 19500	Schmalz's First Prize Beer
 19600	Scratch 'n' Sniff Sticker Tome
