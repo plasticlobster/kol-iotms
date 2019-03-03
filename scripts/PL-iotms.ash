@@ -38,7 +38,7 @@ int search_inventory(item[int] iotms) {
    printSectionHeader("Inventory");
    int total = 0;
    foreach a in iotms {
-      int num_items = item_amount(iotms[a]);
+      int num_items = item_amount(iotms[a]) + equipped_amount(iotms[a]);
       total = total + num_items;
       printItemCount(iotms[a], num_items);
    }
@@ -112,6 +112,7 @@ item workshed_item() {
 
 int search_workshed(item[int] iotms) {
    printSectionHeader("Your Workshed");
+   print("This will take a while.", "red");
    int num_items = 0;
    foreach a in iotms {
       if (workshed_item() == iotms[a]) {
@@ -133,7 +134,7 @@ void printTotal(int num_items) {
    print("-----------------------------------------");
 }
 
-void main() {
+void main(boolean skip_workshed) {
    item[int] iotms;
    file_to_map('PL-iotms.txt', iotms);
 
@@ -150,6 +151,8 @@ void main() {
    total = total + search_closet(iotms);
    total = total + search_shop(iotms);
    total = total + search_display(iotms);
-   total = total + search_workshed(iotms);
+   if (!skip_workshed) {
+      total = total + search_workshed(iotms);
+   }
    printTotal(total);
 }
