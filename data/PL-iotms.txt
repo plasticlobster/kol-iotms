@@ -1,0 +1,261 @@
+100	17-ball
+200	a cute angel
+300	adventurer clone egg
+400	airplane charter: Conspiracy Island
+500	airplane charter: Dinseylandfill
+600	airplane charter: Spring Break Beach
+700	airplane charter: That 70s Volcano
+800	airplane charter: The Glaciest
+900	Apathargic Bandersnatch
+1000	astral badger
+1100	avatar of the Unconscious Collective
+1200	bad penguin egg
+1300	Bag o' Tricks
+1400	basking robin
+1500	Bastille Battalion control rig crate
+1600	Batfellow comic
+1700	Boosty Juice
+1800	Boris's Helm
+1900	Boris's Helm (askew)
+2000	bottle of lovebug pheromones
+2100	bottle-rocket crossbow
+2200	bottled green pixie
+2300	Box of bear arms
+2400	Boxing Day care package
+2500	bucket of ancient Vampyre blood
+2600	Buddy Bjorn
+2700	Build-a-City Gingerbread kit
+2800	calm attention-deficit demon
+2900	Camp Scout backpack
+3000	can of Rain-Doh
+3100	candy cornucopia
+3200	Chateau Mantegna room key
+3300	Cheshire Bitten
+3400	Clan Carnival Game
+3500	Clan Floundry
+3600	Clan hot dog stand
+3700	Clan looking glass
+3800	clan pool table
+3900	Clan shower
+4000	Clan speakeasy
+4100	Class five ecto-larva
+4200	coffee sprite
+4300	Comma Chameleon egg
+4400	container of Spooky Putty
+4500	corked genie bottle
+4600	cosmic bucket
+4700	cotton candy cocoon
+4800	Counterclockwise Watch
+4900	crazy bastard sword
+5000	crimbo elfling
+5100	Crimbo P. R. E. S. S. I. E.
+5200	Crimbo sapling
+5300	Crown of Thrones
+5400	custom avatar form
+5500	Dallas Dynasty Falcon Crest Shield
+5600	dandy lion cub
+5700	Dark Jill-O-Lantern
+5800	deactivated nanobots
+5900	deanimated reanimator's coffin
+6000	Dear Past Self Package
+6100	deflated inflatable dodecapede
+6200	detective school application
+6300	disconnected intergnat
+6400	Discontent™ Winter Garden Catalog
+6500	DIY protonic accelerator kit
+6600	doppelshifter egg
+6700	dreaming Jung man
+6800	Ed the Undying exhibit crate
+6900	elf sleeper agent
+7000	Elvish sunglasses
+7100	emo roe
+7200	evil flaming eyeball pendant
+7300	fairy-worn boots
+7400	FantasyRealm membership packet
+7500	fist turkey outline
+7600	flaming familiar doppelgänger
+7700	flaming juggler's balls
+7800	flaming pink shirt
+7900	floaty stone sphere
+8000	Fly-By-Knight Heraldry Form
+8100	Folder Holder
+8200	GameInformPowerDailyPro subscription card
+8300	gentlemen's magazine
+8400	glowing frisbee
+8500	God Lobster Egg
+8600	golden monkey statuette
+8700	Golden Mr. Accessory
+8800	Granny Tood's Thanksgarden Catalog
+8900	Great Ball of Frozen Fire
+9000	Greatest American Pants
+9100	Grumpy Bumpkin's Pumpkin Seed Catalog
+9200	Gummi-Memory
+9300	Haiku katana
+9400	hand turkey outline
+9500	haunted doghouse
+9600	heart-shaped crate
+9700	hibernating Grimstone Golem
+9800	hibernating robot reindeer
+9900	hockey stick of furious angry rage
+10000	homeless hobo spirit
+10100	hopeful candle
+10200	hungover chauvinist pig
+10300	hypnodisk
+10400	ice baby
+10500	ice pick
+10600	ice sickle
+10700	ice skates
+10800	iceberglet
+10900	incredibly dense meat gem
+11000	infant sandworm
+11100	January's Garbage Tote (unopened)
+11200	Jarlsberg's pan
+11300	Jarlsberg's pan (Cosmic portal mode)
+11400	Jekyllin hide belt
+11500	jewel-eyed wizard hat
+11600	jitterbug larva
+11700	jug of Sneaky Pete's Mojo
+11800	Juju Mojo Mask
+11900	kerosene-soaked skip
+12000	kitten burglar
+12100	KoLHS Pep Squad Box
+12200	Latte lovers club card
+12300	Lazenby's Life Lesson
+12301	left bear arm
+12400	LI-11 Motor Pool voucher
+12500	li'l orphan tot
+12600	liar's pants
+12700	Libram of BRICKOs
+12800	Libram of Candy Heart Summoning
+12900	Libram of Divine Favors
+13000	Libram of Love Songs
+13100	Libram of Pulled Taffy
+13200	Libram of Resolutions
+13300	little box of fireworks
+13400	Little Geneticist DNA-Splicing Lab
+13500	llama lama cria
+13600	Loathing Legion knife
+13700	locked mumming trunk
+13800	LT&T telegraph office deed
+13900	lucky Tam O'Shanter
+14000	machine elf capsule
+14100	Make-Your-Own-Vampire-Fangs kit
+14200	March hat
+14300	Mayflower bouquet
+14400	McPhee's Grimoire of Hilarious Object Summoning
+14500	Memories of Beanslinging
+14600	Memories of Snake Oiling
+14700	miniature gravy-covered maypole
+14800	miniscule temporal rip
+14900	Mint Salton Pepper's Peppermint Seed Catalog
+15000	Monster Manuel
+15100	Moping Artistic Goth Kid
+15200	moveable feast
+15300	Mr. Accessory
+15400	Mr. Accessory Jr.
+15500	Mr. Eh?
+15600	Ms. Accessory
+15700	My Own Pen Pal kit
+15800	mysterious chest
+15900	naughty fortune teller
+16000	Naughty origami kit
+16100	naughty paper shuriken
+16200	Navel ring of navel gazing
+16300	nervous tick egg
+16400	Neverending Party invitation envelope
+16500	New-You Club Membership Form
+16600	Olympic-sized Clan crate
+16700	Operation Patriot Shield
+16800	optimal spreadsheet
+16900	Order of the Green Thumb Order Form
+17000	organ grinder
+17100	origami pasties
+17200	origami riding crop
+17300	orphan baby yeti
+17400	Pack of Every Card
+17500	Packet of mayfly bait
+17600	panicked kernel
+17700	pantogram
+17800	Pantsgiving
+17900	passed-out psychedelic bear
+18000	perfectly ordinary frog
+18100	personal raindrop
+18200	Pete & Jackie's Dragon Tooth Emporium Catalog
+18300	pilgrim shield
+18400	plastic pumpkin bucket
+18500	Platinum Yendorian Express Card
+18600	Pocket Meteor Guide
+18700	Pokéfam Guide to Capturing All of Them
+18800	portable Mayo Clinic
+18900	praying Grim Brother
+19000	Professor of Spelunkology
+19100	pygmy bugbear shaman
+19200	rehearsing dramatic hedgehog
+19300	repaid diaper
+19301	right bear arm
+19400	Sane hatrack
+19500	Schmalz's First Prize Beer
+19600	Scratch 'n' Sniff Sticker Tome
+19700	shrine to the Barrel god
+19800	siesta-ing Casagnova gnome
+19900	silk garter snake
+20000	Sister Accessory
+20100	sleeping piano cat
+20200	Small Medium
+20300	Sneaky Pete's leather jacket
+20400	Sneaky Pete's leather jacket (Collar popped)
+20500	Snow Suit
+20600	SongBoom™ BoomBox Box
+20700	Sorcerers of the Shore Grimoire
+20800	Source terminal
+20900	Sp'n-Zor's Grimoire of "Tasteful" Gifts
+21000	space planula
+21100	Spacegate access badge
+21200	Spooky Putty ball
+21300	Spooky Putty mitre
+21400	Spooky Putty sheet
+21500	Spooky Putty snake
+21600	Spooky rattling cigar box
+21700	Squamous polyp
+21800	Staff of Queso Escusado
+21900	still grill
+22000	stinky cheese ball
+22100	stinky cheese diaper
+22200	stinky cheese eye
+22300	stinky cheese sword
+22400	stinky cheese wheel
+22500	stuffed-shirt scarecrow
+22600	suspicious package
+22700	suspicious stocking
+22800	sweet nutcracker
+22900	Talisman of Baio
+23000	Talisman of Bakula
+23100	talisman of Seshat
+23200	The Confiscator's Grimoire
+23300	The Groose in the Hoose
+23400	The Kloop in the Coop
+23500	The Nuge's Favorite Crossbow
+23600	The Smith's Tome
+23700	Thinknerd's Grimoire of Geeky Gifts
+23800	Thor's Pliers
+23900	time-twitching toolbelt
+24000	tiny costume wardrobe
+24100	Tome of Clip Art
+24200	Tome of Snowcone Summoning
+24300	Tome of Sugar Shummoning
+24400	Travoltan trousers
+24500	Unagnimated Gnome
+24600	Uncle Buck
+24700	unemployed hunchbacked minion
+24800	uniclops egg
+24900	unpowered Robortender
+25000	unwound cymbal-playing monkey
+25100	V for Vivala mask
+25200	voter registration form
+25300	wax lips
+25400	Witchess Set
+25500	wizard action figure
+25600	X-32-F snowman crate
+25700	xo-skeleton-in-a-box
+25800	yellow puck
+25900	Yuletide troll chrysalis
