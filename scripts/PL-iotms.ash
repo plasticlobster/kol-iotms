@@ -11,9 +11,6 @@ string nwc(int num) {
       if (dec_part < 100) {
          addl = '0';
       }
-      if (dec_part < 10) {
-         addl = '0';
-      }
       if (dec_part == 0) {
          addl = '00';
       }
@@ -44,7 +41,7 @@ void printItemCount(item it, int num_items) {
       boolean plural = true;
       if (num_items == 1) {
          plural = false;
-         print("- ("+num_items+") "+it+" ("+to_string(historical_price(it))+" Meat)");
+         print("- ("+num_items+") "+it+" ("+nwc(historical_price(it))+" Meat)");
       } else {
          print("- ("+num_items+") "+to_plural(it)+" ("+nwc(historical_price(it))+" Meat)");
       }
