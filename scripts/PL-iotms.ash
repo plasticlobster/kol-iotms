@@ -1,15 +1,6 @@
 notify plasticlobster;
 since r10000;
 
-record inventories {
-   int inventory;
-   int storage;
-   int display;
-   int closet;
-   int store;
-   int workbench;
-};
-
 void printSectionHeader(string which_section) {
    print("Items Currently in "+which_section+": ", "blue");
 }
@@ -31,9 +22,9 @@ void printItemCount(item it, int num_items) {
       boolean plural = true;
       if (num_items == 1) {
          plural = false;
-         print("- ("+num_items+") "+it);
+         print("- ("+num_items+") "+it+" ("+historical_price(it)+" Meat)");
       } else {
-         print("- ("+num_items+") "+to_plural(it));
+         print("- ("+num_items+") "+to_plural(it)+" ("+historical_price(it)+" Meat)");
       }
    }
 }
