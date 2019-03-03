@@ -185,7 +185,7 @@
 18400	plastic pumpkin bucket
 18500	Platinum Yendorian Express Card
 18600	Pocket Meteor Guide
-18700	Pokéfam Guide to Capturing All of Them
+18700	Pok&eacute;fam Guide to Capturing All of Them
 18800	portable Mayo Clinic
 18900	praying Grim Brother
 19000	Professor of Spelunkology
@@ -208,7 +208,7 @@
 20600	SongBoom™ BoomBox Box
 20700	Sorcerers of the Shore Grimoire
 20800	Source terminal
-20900	Sp'n-Zor's Grimoire of "Tasteful" Gifts
+20900	Sp'n-Zor's Grimoire of &quot;Tasteful&quot; Gifts
 21000	space planula
 21100	Spacegate access badge
 21200	Spooky Putty ball
