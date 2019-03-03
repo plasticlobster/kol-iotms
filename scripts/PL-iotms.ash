@@ -17,7 +17,7 @@ void printSectionHeader(string which_section) {
 void printSectionFooter(int num_items) {
    string iar = '';
    if (num_items == 37) {
-      iar = " in a row?!?";
+      iar = " (in a row?!?)";
    }
    if (num_items > 0) {
       print(num_items + " Items Found"+iar, "green");
@@ -132,7 +132,7 @@ void printTotal(int num_items) {
    print("-----------------------------------------");
    string iar = "";
    if (num_items == 37) {
-      iar = " in a row?!?";
+      iar = " (in a row?!?)";
    }
    print("Total Mr. Store Items/Ultra-Rares Found: "+num_items+iar);
    print("-----------------------------------------");
