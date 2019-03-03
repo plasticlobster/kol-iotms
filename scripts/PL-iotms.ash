@@ -130,7 +130,7 @@ void printTotal(int num_items) {
    if (num_items == 37) {
       iar = " in a row?!?";
    }
-   print("Total IotM's Found: "+num_items+iar);
+   print("Total Mr. Store Items/Ultra-Rares Found: "+num_items+iar);
    print("-----------------------------------------");
 }
 
@@ -143,7 +143,8 @@ void main(boolean skip_workshed) {
    }
    int total = 0;
    print("-----------------------------------------");
-   print("This script will search your inventory, closet, Hagnk's, workshed, and display case for tradable IotM's and Ultra-Rares");
+   print("This script will search your inventory, closet, Hagnk's, workshed, and display case for tradable Mr. Store");
+   print("Items as well as Ultra Rares");
    print("Because nobody likes losing their valuable stuff.");
    print("-----------------------------------------");
    total = total + search_inventory(iotms);
