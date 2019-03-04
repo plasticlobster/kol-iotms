@@ -85,17 +85,20 @@
 8500	God Lobster Egg
 8600	golden monkey statuette
 8700	Golden Mr. Accessory
+8701	Gordon Beer's Beer Garden Catalog
 8800	Granny Tood's Thanksgarden Catalog
 8900	Great Ball of Frozen Fire
 9000	Greatest American Pants
 9100	Grumpy Bumpkin's Pumpkin Seed Catalog
 9200	Gummi-Memory
+9201	Gygaxian Libram
 9300	Haiku katana
 9400	hand turkey outline
 9500	haunted doghouse
 9600	heart-shaped crate
 9700	hibernating Grimstone Golem
 9800	hibernating robot reindeer
+9801	hippo tutu
 9900	hockey stick of furious angry rage
 10000	homeless hobo spirit
 10100	hopeful candle
@@ -118,6 +121,7 @@
 11800	Juju Mojo Mask
 11900	kerosene-soaked skip
 12000	kitten burglar
+12001	KoL Con 13 snowglobe
 12100	KoLHS Pep Squad Box
 12200	Latte lovers club card
 12300	Lazenby's Life Lesson
@@ -187,6 +191,7 @@
 18600	Pocket Meteor Guide
 18700	Pok&eacute;fam Guide to Capturing All of Them
 18800	portable Mayo Clinic
+18801	potted tea tree
 18900	praying Grim Brother
 19000	Professor of Spelunkology
 19100	pygmy bugbear shaman
@@ -241,6 +246,7 @@
 23900	time-twitching toolbelt
 24000	tiny costume wardrobe
 24100	Tome of Clip Art
+24101	Tome of Rad Libs
 24200	Tome of Snowcone Summoning
 24300	Tome of Sugar Shummoning
 24400	Travoltan trousers
@@ -256,6 +262,7 @@
 25400	Witchess Set
 25500	wizard action figure
 25600	X-32-F snowman crate
+25601	Xi Receiver Unit
 25700	xo-skeleton-in-a-box
 25800	yellow puck
 25900	Yuletide troll chrysalis
