@@ -123,6 +123,7 @@
 12000	kitten burglar
 12001	KoL Con 13 snowglobe
 12100	KoLHS Pep Squad Box
+12101	Kramco Industries packing carton
 12200	Latte lovers club card
 12300	Lazenby's Life Lesson
 12301	left bear arm
@@ -151,6 +152,7 @@
 14600	Memories of Snake Oiling
 14700	miniature gravy-covered maypole
 14800	miniscule temporal rip
+14801	Mint Condition Lil' Doctor&trade; bag
 14900	Mint Salton Pepper's Peppermint Seed Catalog
 15000	Monster Manuel
 15100	Moping Artistic Goth Kid
