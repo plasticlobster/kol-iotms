@@ -259,6 +259,7 @@
 24900	unpowered Robortender
 25000	unwound cymbal-playing monkey
 25100	V for Vivala mask
+25101	vampyric cloake pattern
 25200	voter registration form
 25300	wax lips
 25400	Witchess Set
