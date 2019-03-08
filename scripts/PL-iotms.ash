@@ -109,16 +109,10 @@ int search_display(item[int] iotms) {
 }
 
 item workshed_item() {
-   string workshed_page = visit_url("campground.php?action=workshed");
-   matcher match_dna = create_matcher("Little Geneticist DNA-Splicing Lab", workshed_page);
-   matcher match_mayo = create_matcher("Mayo Clinic", workshed_page);
-
-   #These are the only two non-BOE workshed IOTM's
-   if (match_dna.find()) {
-      return $item[Little Geneticist DNA-Splicing Lab];
-   }
-   if (match_mayo.find()) {
-      return $item[portable Mayo Clinic];
+   int[item] campground = get_campground();
+   foreach a in campground {
+      if (a == $item[Little Geneticist DNA-Splicing Lab]) return a;
+      if (a == $item[portable Mayo Clinic]) return a;
    }
 
    return $item[none];
@@ -126,7 +120,6 @@ item workshed_item() {
 
 int search_workshed(item[int] iotms) {
    printSectionHeader("Your Workshed");
-   print("This will take a while.", "red");
    int num_items = 0;
    foreach a in iotms {
       if (workshed_item() == iotms[a]) {
@@ -148,7 +141,7 @@ void printTotal(int num_items) {
    print("-----------------------------------------");
 }
 
-void main(boolean skip_workshed) {
+void main() {
    item[int] iotms;
    file_to_map('https://raw.githubusercontent.com/plasticlobster/kol-iotms/master/data/PL-iotms.txt', iotms);
 
@@ -166,9 +159,7 @@ void main(boolean skip_workshed) {
    total = total + search_closet(iotms);
    total = total + search_shop(iotms);
    total = total + search_display(iotms);
-   if (!skip_workshed) {
-      total = total + search_workshed(iotms);
-   }
+   total = total + search_workshed(iotms);
    printTotal(total);
    if (total == 0) {
       print("A poor adventurer is you.");
