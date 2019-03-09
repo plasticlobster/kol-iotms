@@ -14,7 +14,7 @@ in your KoLMafia CLI
 There are two configuration options available regarding mall prices:
 <pre>
 PLIotMShowPrices - Will show mall prices next to the items if set to true.
-<pre>
+</pre>
 <pre>
 PLIotMSearchMall - Will do a mall search for each found item rather than using historical prices.
 </pre>
@@ -38,6 +38,7 @@ To disable showing of mall prices, type:
 set PLIotMShowPrices = true
 set PLIotMSearchMall = true
 </pre>
+
 into your KoLMafia CLI
 
 To update, type:
