@@ -145,8 +145,14 @@ void main() {
    item[int] iotms;
    file_to_map('https://raw.githubusercontent.com/plasticlobster/kol-iotms/master/data/PL-iotms.txt', iotms);
 
+   string[int] iotms_txt;
+   file_to_map('https://raw.githubusercontent.com/plasticlobster/kol-iotms/master/data/PL-iotms.txt', iotms_txt);
+
    foreach a in iotms {
-      if (iotms[a] == $item[none]) abort("Error: Invalid Item Found in Data File. KMail PlasticLobster to fix.");
+      if (iotms[a] == $item[none]) {
+         print("Warning: Item "+iotms_txt[a]+" Not identified by KoLMafia. If this is a new item, you may need a new version of KoLMafia to support it. If this is a valid item recognized by KoLMafia, please KMail PlasticLobster to fix this issue.", "red");
+         wait(5);
+      }
    }
    int total = 0;
    print("-----------------------------------------");
