@@ -35,8 +35,7 @@ into your KoLMafia CLI
 
 To disable showing of mall prices, type:
 <pre>
-set PLIotMShowPrices = true
-set PLIotMSearchMall = true
+set PLIotMShowPrices = false
 </pre>
 
 into your KoLMafia CLI
