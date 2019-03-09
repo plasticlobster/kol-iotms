@@ -41,7 +41,7 @@ void printItemCount(item it, int num_items) {
       boolean plural = true;
       if (num_items == 1) {
          plural = false;
-         print("- ("+num_items+") "+it+" ("+nwc(historical_price(it))+" Meat)");
+         print("- ("+num_items+") "+it+" ("+nwc(mall_price(it))+" Meat)");
       } else {
          print("- ("+num_items+") "+to_plural(it)+" ("+nwc(historical_price(it))+" Meat)");
       }
