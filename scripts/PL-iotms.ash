@@ -135,7 +135,7 @@ int search_workshed(item[int] iotms) {
    printSectionHeader("Your Workshed");
    int num_items = 0;
    foreach a in iotms {
-      if (workshed_item() == iotms[a]) {
+      if ((workshed_item() == iotms[a]) && (iotms[a] != $item[none])){
          printItemCount(iotms[a], 1);
          num_items = 1;
       }
