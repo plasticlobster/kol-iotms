@@ -39,12 +39,25 @@ void printSectionFooter(int num_items) {
 void printItemCount(item it, int num_items) {
    if (num_items > 0) {
       boolean plural = true;
-      if (num_items == 1) {
-         plural = false;
-         print("- ("+num_items+") "+it+" ("+nwc(mall_price(it))+" Meat)");
-      } else {
-         print("- ("+num_items+") "+to_plural(it)+" ("+nwc(historical_price(it))+" Meat)");
+      int mall_price = -1;
+      boolean show_prices = get_property("PLIotMShowPrices").to_boolean();
+      if (show_prices) {
+         if (get_property("PLIotMSearchMall").to_boolean()) {
+            mall_price = mall_price(it);
+         } else {
+            mall_price = historical_price(it);
+         }
       }
+      string out = "- ("+num_items+") ";
+      if (num_items == 1) {
+         out = out + it;
+      } else {
+         out = out + to_plural(it);
+      }
+      if (show_prices) {
+         out = out + " (" + nwc(mall_price) + " Meat)";
+      }
+      print(out);
    }
 }
 
