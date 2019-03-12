@@ -43,6 +43,13 @@ into your KoLMafia CLI
 To update, type:
 ----------------------
 <pre>
+PL-iotms
+</pre>
+into your KolMafia CLI
+
+To update, type:
+----------------------
+<pre>
 svn update plasticlobster-kol-iotms-branches-Release
 svn sync
 </pre>
