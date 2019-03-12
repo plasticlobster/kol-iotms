@@ -1,23 +1,32 @@
 notify plasticlobster;
 since r10000;
 
-string nwc(int num) {
-   float fnum = to_float(num);
-   if (num > 1000) {
-      int nextnum = truncate(fnum / 1000.0);
-      int without_dec = nextnum * 1000;
-      int dec_part = (num - without_dec);
-      string addl = '';
-      if (dec_part < 100) {
-         addl = '0';
-      }
-      if (dec_part == 0) {
-         addl = '00';
-      }
-      return nwc(nextnum)+","+addl+to_string(dec_part);
-   } else {
-      return to_string(num);
+string reverse(string string_in) {
+   int len = length(string_in);
+   buffer out;
+   for a from (len - 1) downto 0 {
+      out = append(out, char_at(string_in, a));
    }
+   return to_string(out);
+}
+
+string nwc(int num_in) {
+   buffer out;
+   string neg = "";
+   if (num_in < 0) {
+      neg = "-";
+      num_in = (-1) * num_in;
+   }
+   
+   string rev = reverse(to_string(num_in));
+   int len = length(rev); 
+   for a from 0 upto (len - 1) {
+      out = append(out, char_at(rev, a));
+      if ((((a + 1) % 3) == 0) && (a != (len - 1))){
+         out = append(out, ",");
+      }
+   }
+   return neg+reverse(to_string(out));
 }
 
 void printSectionHeader(string which_section) {
