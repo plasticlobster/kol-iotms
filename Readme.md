@@ -40,7 +40,7 @@ set PLIotMShowPrices = false
 
 into your KoLMafia CLI
 
-To update, type:
+To run, type:
 ----------------------
 <pre>
 PL-iotms
@@ -51,9 +51,7 @@ To update, type:
 ----------------------
 <pre>
 svn update plasticlobster-kol-iotms-branches-Release
-svn sync
 </pre>
-svn sync is necessary because sometimes KoLMafia doesn't move updates to the scripts folder.
 
 To remove:
 ----------------------
