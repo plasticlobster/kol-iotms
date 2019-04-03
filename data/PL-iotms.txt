@@ -188,6 +188,7 @@
 18100	personal raindrop
 18200	Pete & Jackie's Dragon Tooth Emporium Catalog
 18300	pilgrim shield
+18350	PirateRealm membership packet
 18400	plastic pumpkin bucket
 18500	Platinum Yendorian Express Card
 18600	Pocket Meteor Guide
