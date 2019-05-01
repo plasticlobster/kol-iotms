@@ -79,6 +79,7 @@
 7900	floaty stone sphere
 8000	Fly-By-Knight Heraldry Form
 8100	Folder Holder
+8150	Fourth of May Cosplay Saber kit
 8200	GameInformPowerDailyPro subscription card
 8300	gentlemen's magazine
 8400	glowing frisbee
