@@ -202,6 +202,7 @@
 19200	rehearsing dramatic hedgehog
 19300	repaid diaper
 19301	right bear arm
+19302	rune-strewn spoon cocoon
 19400	Sane hatrack
 19500	Schmalz's First Prize Beer
 19600	Scratch 'n' Sniff Sticker Tome
