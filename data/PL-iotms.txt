@@ -14,6 +14,7 @@
 1400	basking robin
 1500	Bastille Battalion control rig crate
 1600	Batfellow comic
+1650	Beach Comb Box
 1700	Boosty Juice
 1800	Boris's Helm
 1900	Boris's Helm (askew)
