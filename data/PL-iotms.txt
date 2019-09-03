@@ -197,7 +197,8 @@
 18600	Pocket Meteor Guide
 18700	Pok&eacute;fam Guide to Capturing All of Them
 18800	portable Mayo Clinic
-18801	potted tea tree
+18825	packaged Pocket Professor
+18850	potted tea tree
 18900	praying Grim Brother
 19000	Professor of Spelunkology
 19100	pygmy bugbear shaman
