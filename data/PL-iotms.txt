@@ -182,6 +182,7 @@
 17200	origami riding crop
 17300	orphan baby yeti
 17400	Pack of Every Card
+17450	packaged Pocket Professor
 17500	Packet of mayfly bait
 17600	panicked kernel
 17700	pantogram
@@ -197,7 +198,6 @@
 18600	Pocket Meteor Guide
 18700	Pok&eacute;fam Guide to Capturing All of Them
 18800	portable Mayo Clinic
-18825	packaged Pocket Professor
 18850	potted tea tree
 18900	praying Grim Brother
 19000	Professor of Spelunkology
