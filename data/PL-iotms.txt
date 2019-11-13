@@ -261,6 +261,8 @@
 24500	Unagnimated Gnome
 24600	Uncle Buck
 24700	unemployed hunchbacked minion
+24750	Unopened Eight Days a Week Pill Keeper
+25775	unopened diabolic pizza cube box
 24800	uniclops egg
 24900	unpowered Robortender
 25000	unwound cymbal-playing monkey
