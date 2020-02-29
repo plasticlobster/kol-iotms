@@ -157,6 +157,7 @@
 14800	miniscule temporal rip
 14801	Mint Condition Lil' Doctor&trade; bag
 14900	Mint Salton Pepper's Peppermint Seed Catalog
+14950	mint-in-box Powerful Glove
 15000	Monster Manuel
 15100	Moping Artistic Goth Kid
 15200	moveable feast
@@ -203,9 +204,11 @@
 19000	Professor of Spelunkology
 19100	pygmy bugbear shaman
 19200	rehearsing dramatic hedgehog
+19250	red-spotted snapper roe
 19300	repaid diaper
-19301	right bear arm
-19302	rune-strewn spoon cocoon
+19310	Retrospecs try-at-home kit
+19320	right bear arm
+19330	rune-strewn spoon cocoon
 19400	Sane hatrack
 19500	Schmalz's First Prize Beer
 19600	Scratch 'n' Sniff Sticker Tome
@@ -261,6 +264,7 @@
 24500	Unagnimated Gnome
 24600	Uncle Buck
 24700	unemployed hunchbacked minion
+24725	unopened Bird-a-Day calendar
 24750	Unopened Eight Days a Week Pill Keeper
 25775	unopened diabolic pizza cube box
 24800	uniclops egg
