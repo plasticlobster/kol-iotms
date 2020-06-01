@@ -15,6 +15,7 @@
 1500	Bastille Battalion control rig crate
 1600	Batfellow comic
 1650	Beach Comb Box
+1675	Better Shrooms and Gardens catalog
 1700	Boosty Juice
 1800	Boris's Helm
 1900	Boris's Helm (askew)
@@ -94,7 +95,8 @@
 9000	Greatest American Pants
 9100	Grumpy Bumpkin's Pumpkin Seed Catalog
 9200	Gummi-Memory
-9201	Gygaxian Libram
+9225	Guzzlr application
+9251	Gygaxian Libram
 9300	Haiku katana
 9400	hand turkey outline
 9500	haunted doghouse
@@ -215,6 +217,7 @@
 19700	shrine to the Barrel god
 19800	siesta-ing Casagnova gnome
 19900	silk garter snake
+19950	sinistral homunculus
 20000	Sister Accessory
 20100	sleeping piano cat
 20200	Small Medium
