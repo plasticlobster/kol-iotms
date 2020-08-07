@@ -188,7 +188,7 @@
 17300	orphan baby yeti
 17400	Pack of Every Card
 17450	packaged Pocket Professor
-17475	packaged SpinMaster™ lathe
+17475	packaged SpinMaster&tm; lathe
 17500	Packet of mayfly bait
 17600	panicked kernel
 17700	pantogram
