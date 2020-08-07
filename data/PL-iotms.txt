@@ -9,8 +9,10 @@
 900	Apathargic Bandersnatch
 1000	astral badger
 1100	avatar of the Unconscious Collective
+1150	baby camelCalf
 1200	bad penguin egg
 1300	Bag o' Tricks
+1350	bag of Iunion stones
 1400	basking robin
 1500	Bastille Battalion control rig crate
 1600	Batfellow comic
@@ -186,6 +188,7 @@
 17300	orphan baby yeti
 17400	Pack of Every Card
 17450	packaged Pocket Professor
+17475	packaged SpinMaster™ lathe
 17500	Packet of mayfly bait
 17600	panicked kernel
 17700	pantogram
