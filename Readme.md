@@ -53,7 +53,7 @@ To update, type:
 svn update plasticlobster-kol-iotms-branches-Release
 </pre>
 
-To remove:
+To remove, type:
 ----------------------
 <pre>
 svn delete plasticlobster-kol-iotms-branches-Release
