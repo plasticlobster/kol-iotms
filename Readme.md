@@ -1,5 +1,7 @@
 A simple script that will check your various inventory locations for IOTM's because they tend to get lost sometimes.
 
+Not kept up to date very often, as I'm not playing the game at the moment.
+
 Guide
 =====
 
