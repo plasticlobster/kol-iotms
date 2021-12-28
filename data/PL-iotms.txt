@@ -201,7 +201,7 @@
 17425	packaged knock-off retro superhero cape
 17435	packaged miniature crystal ball
 17450	packaged Pocket Professor
-17475	packaged SpinMaster&tm; lathe
+17475	packaged SpinMaster™ lathe
 17500	Packet of mayfly bait
 17600	panicked kernel
 17700	pantogram
