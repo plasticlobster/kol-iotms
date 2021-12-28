@@ -13,6 +13,7 @@
 1200	bad penguin egg
 1300	Bag o' Tricks
 1350	bag of Iunion stones
+1375	Bagged Cargo Cultist Shorts
 1400	basking robin
 1500	Bastille Battalion control rig crate
 1600	Batfellow comic
@@ -24,6 +25,8 @@
 2000	bottle of lovebug pheromones
 2100	bottle-rocket crossbow
 2200	bottled green pixie
+2225	bottled Vampire Vintner
+2250	box o' ghosts
 2300	Box of bear arms
 2400	Boxing Day care package
 2500	bucket of ancient Vampyre blood
@@ -42,9 +45,11 @@
 3800	clan pool table
 3900	Clan shower
 4000	Clan speakeasy
+4050	clan underground fireworks shop
 4100	Class five ecto-larva
 4200	coffee sprite
 4300	Comma Chameleon egg
+4350	Comprehensive Cartographic Compendium
 4400	container of Spooky Putty
 4500	corked genie bottle
 4600	cosmic bucket
@@ -74,6 +79,7 @@
 6900	elf sleeper agent
 7000	Elvish sunglasses
 7100	emo roe
+7150	emotion chip
 7200	evil flaming eyeball pendant
 7300	fairy-worn boots
 7400	FantasyRealm membership packet
@@ -187,6 +193,13 @@
 17200	origami riding crop
 17300	orphan baby yeti
 17400	Pack of Every Card
+17412	packaged backup camera
+17413	packaged cold medicine cabinet
+17416	packaged Daylight Shavings Helmet
+17419	packaged familiar scrapbook
+17423	packaged industrial fire extinguisher
+17425	packaged knock-off retro superhero cape
+17435	packaged miniature crystal ball
 17450	packaged Pocket Professor
 17475	packaged SpinMaster&tm; lathe
 17500	Packet of mayfly bait
@@ -205,6 +218,7 @@
 18700	Pok&eacute;fam Guide to Capturing All of Them
 18800	portable Mayo Clinic
 18850	potted tea tree
+18875	power seed
 18900	praying Grim Brother
 19000	Professor of Spelunkology
 19100	pygmy bugbear shaman
@@ -217,6 +231,7 @@
 19400	Sane hatrack
 19500	Schmalz's First Prize Beer
 19600	Scratch 'n' Sniff Sticker Tome
+19650	shortest-order cook
 19700	shrine to the Barrel god
 19800	siesta-ing Casagnova gnome
 19900	silk garter snake
