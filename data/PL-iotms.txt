@@ -48,6 +48,7 @@
 4050	clan underground fireworks shop
 4100	Class five ecto-larva
 4200	coffee sprite
+4250	combat lover's locket lockbox
 4300	Comma Chameleon egg
 4350	Comprehensive Cartographic Compendium
 4400	container of Spooky Putty
